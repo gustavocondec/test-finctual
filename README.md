@@ -14,3 +14,8 @@ uso de eslint y prettier para calidad de codigo.
 Ejecutar codigo de prueba:
 
 npm run test
+
+
+
+#Se uso IA para consultar acerca de lo que requeria el enunciado
+https://chatgpt.com/share/6837e3f6-81dc-8012-9d9b-7b4cae859d0c
